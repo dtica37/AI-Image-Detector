@@ -18,8 +18,8 @@ document.getElementById('uploadButton').addEventListener('click', async () => {
     reader.readAsDataURL(file);
 
 
-    const apiKey = 'acc_2e3c732d82c709d';
-    const apiSecret = 'cad812c338884faef0d1605e2c9f013c';
+    const apiKey = 'apiKey';
+    const apiSecret = 'apiSecret';
     const authHeader = 'Basic ' + btoa(`${apiKey}:${apiSecret}`);
 
 
