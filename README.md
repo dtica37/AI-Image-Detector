@@ -1,4 +1,4 @@
-JavaScript AI Image Detector: Analyze Images and Extract Tags & Colors! 
+JavaScript AI Image Detector: Analyze Images and Extract Tags & Colors! (Big updates coming💪)
 
 I used AI-Powered Image Detection API. 
 
